@@ -1,0 +1,7 @@
+# application.yml jest pusty, to jest bootstrap.yml
+spring:
+  application:
+    name: randomizing-machine
+server:
+    port:
+      8060
